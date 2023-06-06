@@ -1,0 +1,37 @@
+.cine{
+    background-color:grey;
+    text-align: center;
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.sat{
+    background-color:brown;
+    color:aliceblue;
+    text-align: center;
+    font-size:xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.noti{
+    background-color:darkred;
+    color:aliceblue;
+    text-align: center;
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.jtf{
+    text-align: justify;
+}
+.hi{
+    background-color:darkred;
+    color:aliceblue;
+    text-align: center;
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.anti{
+    background-color:rgb(80, 24, 24);
+    color:aliceblue;
+    text-align: center;
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
